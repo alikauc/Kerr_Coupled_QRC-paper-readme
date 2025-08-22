@@ -42,3 +42,6 @@ To reproduce the key results from the paper:
 ## Citation
 You can cite this code by using this link.
 [![DOI](https://img.shields.io/badge/DOI:-10.48550/arXiv.2508.11175-green)](https://doi.org/10.48550/arXiv.2508.11175)
+
+---
+* This is the README for a repository with the name **Kerr_Coupled_QRC-Paper-** which will be public soon.
